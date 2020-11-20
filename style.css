@@ -16,8 +16,11 @@ html {
 
 body {
   font-family: 'Poppins', sans-serif;
+  font-display: swap;
 }
-
+a{
+  font-display: swap
+}
 header .text-content h2 {
   font-size: 44px;
   color: #6C63FF;
